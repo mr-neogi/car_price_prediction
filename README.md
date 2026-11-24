@@ -248,7 +248,7 @@ dropdowns and metrics update automatically.
 
 ---
 
-## Team Shady Syndicate
+## 🤜🤛Team Shady Syndicate
  
 **Soumya Neogi** ,
 **Aparupa Ghosh** ,
