@@ -250,10 +250,10 @@ dropdowns and metrics update automatically.
 
 ## 🤜🤛Team Shady Syndicate
  
-**Soumya Neogi** ,
-**Aparupa Ghosh** ,
-**Ayantika Samanta** ,
-**Indranil Guria**  — B.Tech CSE (AI & ML), Brainware University
+Soumya Neogi,
+Aparupa Ghosh,
+Ayantika Samanta ,
+Indranil Guria — B.Tech CSE (AI & ML), Brainware University
 ---
 
 
