@@ -247,6 +247,3 @@ dropdowns and metrics update automatically.
 **Soumya Neogi** — B.Tech CSE (AI & ML), Brainware University
 
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
